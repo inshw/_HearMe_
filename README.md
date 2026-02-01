@@ -1,4 +1,4 @@
-# 🛡️ HearMe: AI Safety Companion
+# 🛡️ HearMe: AI Companion
 
 **HearMe** is a sleek, voice-first safety app providing calm, immediate support. Built with **Gemini 3 Flash Preview**, it offers cutting-edge transcription and safety reasoning wrapped in a high-end dark mode interface.
 
