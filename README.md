@@ -24,3 +24,8 @@
 
 > **"I am listening."**
 > HearMe is optimized for low-latency. Technical delays are hidden behind a polished `st.spinner` UX to ensure a smooth, professional feel during emergencies.
+
+---
+
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/61413dd4-e33a-4f2a-9ebc-2f4cd570a8a6" />
+
