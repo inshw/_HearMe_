@@ -13,7 +13,7 @@
 
 ## 🚀 Quick Setup
 * **API Keys:** Set `GEMINI_API_KEY` and `ELEVEN_API_KEY` in your `.env` file.
-* **Run:** `streamlit run app.py`
+* **Run:** `python -m streamlit run voicenai.py`
 
 ## 🛠️ Tech Stack
 * **Frontend:** Streamlit (Custom Dark CSS)
